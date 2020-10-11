@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 📫 **musapkahraman@gmail.com**
-
 - More about me:
 
 <p align="left">
