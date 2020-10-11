@@ -7,7 +7,7 @@
 <a href="https://stackoverflow.com/story/musapkahraman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="9425544" height="30" width="30" /></a>
 </p>
 
-- I am working with these:
+- I know 
 
 <p align="left">
   <a href="https://unity.com/" target="blank"><img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.6.1/unity.svg" alt="unity" width="40" height="40"/></a>
