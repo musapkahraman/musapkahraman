@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Battleship](https://github.com/MusapKahraman/Battleship)
-
 - 📫Reach me at **musapkahraman@gmail.com**
 
 <p align="left">
