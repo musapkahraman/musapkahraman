@@ -1,5 +1,3 @@
-# Hi there 👋
-
 ## 🏆 Proficient in:
 ### 💻 Programming:
 <p>
@@ -15,12 +13,6 @@
 ### 💻 Game engines: 
 <p>
   <a href="https://unity.com/" target="blank"><img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.6.1/unity.svg" alt="unity" width="40" height="40"/></a>
-</p>
-
-## 🌱 Learning:
-<p>
-    <a href="https://isocpp.org/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.blender.org/" target="blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
 </p>
 
 # More about me
